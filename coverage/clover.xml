@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1706451644197" clover="3.2.0">
+  <project timestamp="1706451644197" name="All files">
+    <metrics statements="22" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="5" elements="30" coveredelements="22" complexity="0" loc="22" ncloc="22" packages="1" files="1" classes="1"/>
+    <file name="tooltip.js" path="/Users/berson969/Library/Mobile Documents/com~apple~CloudDocs/WebstormProjects/hjs-forms/src/js/tooltip.js">
+      <metrics statements="22" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="5"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="18" count="0" type="stmt"/>
+      <line num="19" count="0" type="stmt"/>
+      <line num="20" count="0" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+      <line num="44" count="1" type="stmt"/>
+      <line num="45" count="1" type="stmt"/>
+      <line num="47" count="1" type="stmt"/>
+      <line num="56" count="1" type="stmt"/>
+      <line num="58" count="1" type="stmt"/>
+      <line num="59" count="1" type="stmt"/>
+      <line num="61" count="1" type="stmt"/>
+      <line num="62" count="1" type="stmt"/>
+      <line num="63" count="1" type="stmt"/>
+      <line num="70" count="0" type="stmt"/>
+      <line num="77" count="1" type="stmt"/>
+      <line num="78" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>

@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.custom-btn {
+    position: relative;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #ff6666;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.custom-tooltip {
+    position: absolute;
+    bottom: 120%;
+    left: 50%;
+    width: 130%;
+    transform: translateX(-50%);
+    background-color: #ffffff;
+    color: #4d4e53;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+    font-style: italic;
+}
+
+.custom-tooltip.hidden {
+    display: none
+}
