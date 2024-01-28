@@ -1,5 +1,5 @@
 ### Badge
-![CI](https://github.com/berson969/ahj-forms/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/berson969/hjs-forms/actions/workflows/web.yml/badge.svg)
 
 
 ### Домашнее задание к занятию "Работа с HTML-формами"
